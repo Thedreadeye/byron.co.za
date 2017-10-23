@@ -1,0 +1,15 @@
+.hero-wrap {
+  height: 100%;
+}
+.hero-content {
+  padding: 0 40px 0 80px;
+  position: absolute;
+  top: 30%;
+  // -webkit-transform: translateY(-45%);
+  // -ms-transform: translateY(-45%);
+  // -o-transform: translateY(-45%);
+  // transform: translateY(-45%);
+  h1 {
+    color: $white;
+  }
+}
